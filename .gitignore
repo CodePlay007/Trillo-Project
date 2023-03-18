@@ -1,0 +1,7 @@
+# Excluding the node_modules directory
+node_modules/
+
+# Excluding SASS code
+sass/
+
+# Excluding 
