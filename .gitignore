@@ -4,4 +4,6 @@ node_modules/
 # Excluding SASS code
 sass/
 
-# Excluding 
+# Excluding CSS irrelevant css files
+css/style.comp.css
+css/style.prefix.css
